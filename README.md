@@ -21,7 +21,7 @@
 ### I am a Senior QA Automatiom Engineer in Lamudi Technical Services Corp.
 - 🌱 I’m currently building a Full Stack Test Automation Engineering from Requirement Analysis to Test Closure including proper Reporting and Result with CI/CD.
 - 🥅 Goals: Contribute to Open Source projects
-- 📬 How to reach me: [Let's get in touch!][https://www.linkedin.com/in/chrstnfernandez/]
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/chrstnfernandez/)
 - 💡 Always like to innovate and automate things
 <br>
 
