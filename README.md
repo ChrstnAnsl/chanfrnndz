@@ -3,7 +3,7 @@
 </p>
 
 <!-- <p>
-  <h4 align="center"><b>"Open Source contributor in Selenium"</b></h4>
+  <h4 align="center"><b>"Automation Engineer"</b></h4>
 </p>
  -->
 
@@ -19,7 +19,8 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I'm currently a Senior Test Automatiom Engineer in Lamudi Technical Services Corp.
-- 🌱 Currently building a Full Stack Automation System from Requirement Analysis to Test Closure including proper Reporting and Result with CI/CD.
+- 🔭 Currently building a Full Stack Automation System from Requirement Analysis to Test Closure including proper Reporting and Result with CI/CD.
+- 🌱 Learning about Sec/DevOps
 - 🥅 Goals: Contribute to Open Source projects
 - 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/chrstnfernandez/)
 - 💡 Always like to innovate and automate things
