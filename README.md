@@ -2,10 +2,10 @@
   <h1 align="center"><b>Hi, I’m Christian Ansel Fernandez 👋</b></h1>
 </p>
 
-<p>
+<!-- <p>
   <h4 align="center"><b>"Open Source contributor in Selenium"</b></h4>
 </p>
-
+ -->
 
 <p align="center">
 <br>
