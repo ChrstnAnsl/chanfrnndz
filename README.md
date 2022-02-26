@@ -1,9 +1,9 @@
 <p>
-  <h1 align="center"><b>Hi, I’m Christian Fernandez 👋</b></h1>
+  <h1 align="center"><b>Hi, I’m Christian Ansel Fernandez 👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b>"Test Automation Engineer"</b></h4>
+  <h4 align="center"><b>"Open Source contributor in Selenium"</b></h4>
 </p>
 
 
